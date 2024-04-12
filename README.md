@@ -23,7 +23,7 @@
  </br>
 </br>
  <div align="center">
- ![Simulator Screenshot - iPhone 15 - 2024-04-12 at 14 11 02](https://github.com/MuselianiMariami/UIkit_First/assets/137683336/2aa60e17-5778-4b74-bf47-28c0beb8116a)
-   <span>...</span>
-![Simulator Screenshot - iPhone 15 - 2024-04-12 at 14 11 20](https://github.com/MuselianiMariami/UIkit_First/assets/137683336/fb326de9-a3b5-45d6-a33a-ea06b274c2f9)
+   <img src="https://github.com/MuselianiMariami/UIkit_First/assets/137683336/2aa60e17-5778-4b74-bf47-28c0beb8116a" width="300">
+    <span>...</span>
+   <img src="https://github.com/MuselianiMariami/UIkit_First/assets/137683336/fb326de9-a3b5-45d6-a33a-ea06b274c2f9" width="300">
  </div>
